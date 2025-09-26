@@ -1,11 +1,9 @@
+Canine Needs Website
+This is the official website for Canine Needs, providing accredited dog training, behavior consultation, and quality pet care resources.
 
-  # Canine Needs Website Build
-
-  This is a code bundle for Canine Needs Website Build. The original project is available at https://www.figma.com/design/nJzH3VW0vSLnv8dGs5T3yQ/Canine-Needs-Website-Build.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Features
+Professional dog training and behavior services
+Gallery of certificates and accreditations
+Informative podcast and blog sections
+Contact and service inquiry forms
+Responsive, modern design
